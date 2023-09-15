@@ -5,7 +5,7 @@ Hello Hellooo :v
 - 👋 Hi, I’m Patricia, you can call me Patri :3 
 - 🎓 On my way to get my Multiplatform App Dev title
 - 👀 I’m interested in Game dev and languages 😍
-- 📫 How to reach me ... Discord: Seyten#0680
+- 📫 How to reach me ... Discord: @seytten
 
 <!---
 popadron/popadron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
