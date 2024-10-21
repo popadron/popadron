@@ -3,7 +3,7 @@
 Hello Hellooo :v
 
 - 👋 Hi, I’m Patricia, you can call me Patri :3 
-- 🎓 On my way to get my Multiplatform App Dev title
+- 🎓 Multiplatform App Developer
 - 👀 I’m interested in Game dev and languages 😍
 - 📫 How to reach me ... Discord: @seytten
 
