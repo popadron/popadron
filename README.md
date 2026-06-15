@@ -1,11 +1,11 @@
 
-# ¡Hola! Soy Patricia 🌟 (popadron)
+# ¡Hola! Soy Patricia 🌟
 
 Desarrolladora de Software enfocada en crear experiencias web interactivas, aplicaciones multiplataforma y, en mis ratos libres, explorando el desarrollo de videojuegos (UX/UI 🎮). Actualmente trabajando con el ecosistema Odoo, Python y frameworks modernos de JavaScript.
 
 - 📍 Basada en Tenerife, España 🏝️
 - 💼 Actualmente Full-stack Developer en Binhex
-- 🚀 Co-creando **No Overtime** (un juego de roles ocultos en Godot) y **FindYourBuddy** (plataforma social animalista)
+- 🚀 Co-creando **NO OVERTIME** (un juego de roles ocultos en Godot) y **FindYourBuddy** (plataforma social animalista)
 - 💬 Hablo Español e Inglés
 
 ---
@@ -33,7 +33,7 @@ Desarrolladora de Software enfocada en crear experiencias web interactivas, apli
 
 | Proyecto | Descripción | Tech Stack |
 | :--- | :--- | :--- |
-| **🎮 No Overtime** | Videojuego multijugador social de roles ocultos y toma de decisiones en tiempo real. | `Godot Engine` |
+| **🎮 NO OVERTIME** | Videojuego multijugador social de roles ocultos y toma de decisiones en tiempo real. | `Godot Engine` |
 | **🐾 FindYourBuddy** | Plataforma social orientada a la divulgación y conexión en el ámbito animal. | `Vue.js`, `Django` |
 
 ---
