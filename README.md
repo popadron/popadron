@@ -40,7 +40,7 @@ Desarrolladora de Software enfocada en crear experiencias web interactivas, apli
 
 ### 📬 ¿Hablamos?
 
-- **LinkedIn:** [Patricia Isabel Ojeda Padrón](https://www.linkedin.com/in/tu-usuario-aqui) 💻
-- **Web/Portfolio:** [popadron.dev](mailto:popadron.dev@gmail.com) 📧
+- **LinkedIn:** [Patricia Isabel Ojeda Padrón](https://www.linkedin.com/in/popadron)
+- **Web/Portfolio:** [popadron.dev](https://popadron.github.io/popadrondev/)
 
 <p align="center">✨ <i>"Disfruto creando productos interactivos, resolviendo problemas y aprendiendo cosas nuevas cada día."</i> ✨</p>
