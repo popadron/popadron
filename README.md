@@ -5,7 +5,7 @@ Desarrolladora de Software enfocada en crear experiencias web interactivas, apli
 
 - 📍 Basada en Tenerife, España 🏝️
 - 💼 Actualmente Full-stack Developer en Binhex
-- 🚀 Co-creando **NO OVERTIME** (un juego de roles ocultos en Godot) y **FindYourBuddy** (plataforma social animalista)
+- 🚀 Proyectos: **NO OVERTIME** (un juego de roles ocultos en Godot) y **FindYourBuddy** (plataforma social animalista)
 - 💬 Hablo Español e Inglés
 
 ---
