@@ -34,7 +34,7 @@ Desarrolladora de Software enfocada en crear experiencias web interactivas, apli
 | Proyecto | Descripción | Tech Stack |
 | :--- | :--- | :--- |
 | **🎮 NO OVERTIME** | Videojuego multijugador social de roles ocultos y toma de decisiones en tiempo real. | `Godot Engine` |
-| **🐾 FindYourBuddy** | Plataforma social orientada a la divulgación y conexión en el ámbito animal. | `Vue.js`, `Django` |
+| **🐾 FindYourBuddy** | Red social orientada a la divulgación y conexión en el ámbito animal. | `Vue.js`, `Django` |
 
 ---
 
