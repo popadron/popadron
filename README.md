@@ -32,7 +32,7 @@ Desarrolladora de Software enfocada en crear experiencias web interactivas, apli
   
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
 </p>
 
 ---
@@ -41,7 +41,7 @@ Desarrolladora de Software enfocada en crear experiencias web interactivas, apli
 
 | Proyecto | Descripción | Tech Stack |
 | :--- | :--- | :--- |
-| **🎮 NO OVERTIME** | Videojuego multijugador social de roles ocultos y toma de decisiones en tiempo real. | `Godot Engine` |
+| **🎮 NO OVERTIME** | Videojuego multijugador social de roles ocultos y toma de decisiones en tiempo real. | `Unity` |
 | **🐾 FindYourBuddy** | Red social orientada a la divulgación y conexión en el ámbito animal. | `Vue.js`, `Django` |
 
 ---
